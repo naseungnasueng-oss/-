@@ -1,0 +1,43 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Local backups and crash reports
+/ScriptBackups/
+/Assets/_Recovery*
+mono_crash.*.json
+sysinfo.txt
+
+# Agent worker lifecycle artifacts
+/.pi-worker-runs/
+
+# IDE and generated project files
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Unity Asset Store tools
+/Assets/AssetStoreTools*
